@@ -129,9 +129,14 @@
       "url": "https://xn--8owq8u.com/tv/",
       "name": "🚀毒盒线路"
     },
+
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
       "name": "🚀青龙影线"
+    },
+    {
+      "url": "https://gzy.lzo.publicvm.com",
+      "name": "🚀刘公子"
     }
   ]
 }
