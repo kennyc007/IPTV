@@ -1,4 +1,4 @@
-我的电视,#genre#,7/10/2025 10:05:30 PM
+我的电视,#genre#,7/10/2025 10:25:53 PM
 CCTV4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
