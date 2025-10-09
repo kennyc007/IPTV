@@ -1,21 +1,45 @@
-我的电视,#genre#,2025-10-09 18:07:28
+我的电视,#genre#,2025-10-09 19:09:42
 
 CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
+CCTV13,http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+CCTV13,https://cc06.tv12.xyz/14.m3u8
+CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV4,http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://183.11.239.36:808/hls/22/index.m3u8
+CCTV4,http://1b6467f415.iok.la:9931/tsfile/live/1023_1.m3u8
+CCTV4,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8
+CCTV4,http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8
 CCTV4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
+CCTV4,https://cc06.tv12.xyz/4.m3u8
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV4K,http://101.43.145.141:12002/gaoma/cctv4k.m3u8
 CCTV4国际,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
 CCTV5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
+CCTV5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
+CCTV5+,https://cc06.tv12.xyz/6.m3u8
+CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
+CCTV5,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
+CCTV5,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8
+CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
+CCTV5,https://cc06.tv12.xyz/5.m3u8
 CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://146.56.153.245:20121/bysid/258
