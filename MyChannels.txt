@@ -1,4 +1,4 @@
-我的电视,#genre#,2026-09-27 18:34:13, https://raw.githubusercontent.com/kennyc007/IPTV/refs/heads/main/MyChannels.txt
+我的电视,#genre#,2026-09-27 18:46:31, https://raw.githubusercontent.com/kennyc007/IPTV/refs/heads/main/MyChannels.txt
 
 CCTV13,http://0000505.xyz:8888/rtp/239.76.246.93:1234
 CCTV13,http://0000505.xyz:8888/rtp/239.76.253.93:9000
